@@ -23,48 +23,35 @@
 
 ## 🚀 Features
 
-- **Real-time Cryptocurrency Prices**: Displays live cryptocurrency prices fetched from an API.
-- **Interactive Charts**: Dynamic charts showing the price trends of various cryptocurrencies.
-- **Search Functionality**: Allows users to search for specific cryptocurrencies.
-- **Responsive Design**: Optimized for both mobile and desktop viewing.
-- **Lightweight and Fast**: Simple and fast user interface using vanilla JavaScript.
+- **Responsive design**
+- **HTML and CSS only**
+- **Similar styling to Amazon**
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: For the structure of the website.
 - **CSS3**: For styling, animations, and responsive design.
-- **JavaScript**: To fetch and display real-time cryptocurrency data and handle interactions.
+- **JavaScript**: To fetch and display real-time data and handle interactions.
 
 ## 🌟 Screenshots
 
-![Cryptocurrency-Web_Screenshot](/images/C_Screenshot.png)
+![CAmazon-Website-Web_Screenshot](_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://image-transform-effect.vercel.app/)
+[View Live Demo]()
 
 ## How to Use
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Cryptocurrency-Web.git>
+   git clone <>
    ```
 2. Open the project folder:
    ```bash
-   cd Cryptocurrency-Web
+   cd 
    ```
 3. Open index.html in any web browser
-
-## 🛠️ How it Works
-
-- The homepage displays a list of major cryptocurrencies and their prices.
-- Users can search for specific cryptocurrencies using the search bar.
-- Prices and charts are updated in real time based on the latest data.
-
-## 🛠️ API Integration
-
-- The website fetches cryptocurrency data from a third-party API (e.g., CoinGecko API, CoinMarketCap API).
-- API key and integration details can be configured in the `script.js` file.
 
 ## 🤝 Contributing
 
@@ -86,7 +73,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You
