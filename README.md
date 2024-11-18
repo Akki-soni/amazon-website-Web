@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </p>
 
 <p align="center">
@@ -31,11 +30,10 @@
 
 - **HTML5**: For the structure of the website.
 - **CSS3**: For styling, animations, and responsive design.
-- **JavaScript**: To fetch and display real-time data and handle interactions.
 
 ## 🌟 Screenshots
 
-![CAmazon-Website-Web_Screenshot](_Screenshot.png)
+![Amazon-Website-Web_Screenshot](_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -45,11 +43,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Akki-soni/amazon-website-Web.git>
    ```
 2. Open the project folder:
    ```bash
-   cd 
+   cd amazon-website-Web
    ```
 3. Open index.html in any web browser
 
