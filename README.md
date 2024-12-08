@@ -33,7 +33,7 @@
 
 ## 🌟 Screenshots
 
-![Amazon-Website-Web_Screenshot](_Screenshot.png)
+![Amazon-Website-Web_Screenshot](//A_Screenshot.png)
 
 ## 🔗 Live Demo
 
