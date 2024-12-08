@@ -76,6 +76,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You
 
-Thank you for exploring the Cryptocurrency-Web! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the Amazon-Clone-Web! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>
